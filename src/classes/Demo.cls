@@ -1,5 +1,6 @@
 public class Demo  {
 	
-	System.debug('Hello** ');
-
+	public Demo(){
+		System.debug('Hello** ');
+	}
 }
