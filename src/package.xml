@@ -4,5 +4,9 @@
         <members>CCPOC_Demo</members>      
         <name>ApexClass</name>
     </types>
-    <version>42.0</version>
+	<types>
+		<members>Account.CC_POC_NewAccountValidation</members>
+		<name>ValidationRule</name>
+	</types>
+    <version>44.0</version>
 </Package>
