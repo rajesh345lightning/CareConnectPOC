@@ -2,7 +2,9 @@ public class CCPOC_Demo {
 	
 	public CCPOC_Demo(){
 		System.debug('Hello** ');
-		System.debug('Hello**1 ');
-		System.debug('Hello**2 ');
+		List<Account> acclist = new List<Account>();
+		for(integer i=0 ; i<10: i++) {
+		update acclist;
+		}
 	}
 }
