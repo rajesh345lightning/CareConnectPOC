@@ -5,7 +5,7 @@
         <name>ApexClass</name>
     </types>
 	<types>
-		<members>Account.CC_POC_NewAccountValidation</members>
+		<members>Account.CCPOC_NewAccountValidation</members>
 		<name>ValidationRule</name>
 	</types>
     <version>44.0</version>
